@@ -1,2 +1,4 @@
 # elizalive.github.io
-Portfolio site built using https://github.com/IronSummitMedia/startbootstrap-freelancer
+My Portfolio site: escheltens.com
+
+Built using https://github.com/IronSummitMedia/startbootstrap-freelancer
